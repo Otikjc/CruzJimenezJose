@@ -54,4 +54,5 @@ echo("La suma de las dos variables es: " . $resultado."<br>");
 $resultado = resto($var1, $var2);
 
 echo("El resto de las dos variables es: " . $resultado."<br>");
+echo ("esto es un cambio en nuestro script que subiremos a nuestro repositorio");
 
